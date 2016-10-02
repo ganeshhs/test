@@ -1,2 +1,2 @@
 chili recipe
-line1 branch easy-mode
+master branch
